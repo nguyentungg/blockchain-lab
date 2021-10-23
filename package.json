@@ -1,5 +1,23 @@
 {
   "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
     "http-server": "^13.0.2"
-  }
+  },
+  "name": "blockchain-others",
+  "description": "The blockchain laboratory project for testing, learning, and research new technology in the blockchain.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentungg/blockchain-others.git"
+  },
+  "author": "Nguyen Tung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentungg/blockchain-others/issues"
+  },
+  "homepage": "https://github.com/nguyentungg/blockchain-others#readme"
 }
